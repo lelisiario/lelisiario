@@ -1,6 +1,6 @@
 # Hi, I'm Lauren Elisiario (lelisiario) 🌊
 
-### Full Stack Engineer | Data Architect | Always Learning
+### Full Stack Engineer | Data Curious | Always Learning
 
 I am a highly **curious and motivated** Full Stack Web Developer leveraging a background in **Public Administration (MPA)** and **Project Management** to build robust, data-centric web applications. My long-term goal is to secure a Full Stack Engineering role where I can transform complex data and business requirements into elegant, functional digital solutions.
 
