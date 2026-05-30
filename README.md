@@ -27,7 +27,7 @@ I bring a unique combination of full-stack web development training and public a
 ## 🚀 Highlighted Project
 
 ### 🏛️ [Policy Explained](https://github.com/lelisiario/PolicyExplained)
-A full-stack web application developed to make legislative data and federal voting records more transparent and accessible.
+A full-stack web application in development to make legislative data and federal voting records more transparent and accessible.
 *   **The Tech Stack:** Node.js, Express, REST APIs, Third-Party Data Integrations.
 *   **Key Features:** Integrated **OAuth** to ensure secure, streamlined user authentication and login functionality.
 *   **The Support Value:** This project represents my practical experience navigating data architectures, handling structured JSON payloads, and troubleshooting user authentication flows—core components of high-level technical support.
