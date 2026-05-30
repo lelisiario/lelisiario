@@ -1,43 +1,42 @@
-# Hi, I'm Lauren Elisiario (lelisiario) 🌊
+# Hi, I'm Lauren (lelisiario) 🌊
 
-### Full Stack Engineer | Data Curious | Always Learning
-
-I am a highly **curious and motivated** Full Stack Web Developer leveraging a background in **Public Administration (MPA)** and **Project Management** to build robust, data-centric web applications. My long-term goal is to secure a Full Stack Engineering role where I can transform complex data and business requirements into elegant, functional digital solutions.
+### Technical Support Specialist | MPA Graduate
+I bring a unique combination of full-stack web development training and public administration expertise to technical problem-solving. My core focus is bridging the gap between technical systems and end-users with clarity, structure, and a deep commitment to ethical, mission-driven work.
 
 ---
 
-## 💻 My Core Technical Stack
+## 🛠️ Technical Toolkit (Bootcamp Grounded)
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | **React**, JavaScript, TypeScript |
-| **Backend** | **Node.js** (Express), Python |
-| **Databases** | **MongoDB**, SQL (PostgreSQL/MySQL) |
-| **Tools** | Git, RESTful APIs, Project Scoping, Agile/Scrum (from PM Cert) |
+| **Web Development** | JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, React |
+| **APIs & Auth** | RESTful APIs, JSON parsing, API testing, OAuth Authentication |
+| **Workflows & Tools** | Git, GitHub, Command Line basics |
+| **Systems & Strategy** | Public Policy Analysis, Program Evaluation, Systematic Documentation |
 
 ---
 
-## ✨ Projects in Focus
+## 🧠 Core Alignment & Approach to Support
 
-My current portfolio focus is on building sophisticated, non-bootcamp projects to demonstrate independent product architecture and development skills.
-
-| Project | Status | Focus & Key Skills Demonstrated |
-| :--- | :--- | :--- |
-| **PolicyExplained** | **In Active Development** (Commit Activity Daily!) | A deep-dive Civic Tech application leveraging my MPA background. Focuses on **complex data parsing** (legislation APIs), **full-stack authentication**, user tracking, and advanced **data visualization**. |
-| **SoundScapes** | **Deployment/Polishing Phase** | A media player built with React/TypeScript that integrates with external APIs (e.g., Spotify). Demonstrates competency with **modern front-end tooling** and third-party API integration. |
-| **LottoNumGen** | **Learning & API Refinement** | My ongoing Python sandbox. Used to solidify Python fundamentals and practice building APIs/serverless functions. |
+*   **Translating Technical Concepts:** While I am continuing to grow my engineering vocabulary, my strength lies in breaking down complex web structures into clear, and actionable communication for users of all technical levels.
+*   **Root-Cause Troubleshooting:** I approach technical issues systematically—replicating bugs, checking API behaviors, and ensuring secure user authentication flows (like OAuth) are functioning correctly.
+*   **Mission-Driven Ownership:** I thrive in environments that prioritize safety, ethics, and public benefit. My background allows me to understand the broader impact of policy decisions on user support systems.
 
 ---
 
-## 🎯 What I Bring to a Team: Curiosity and Domain Expertise
+## 🚀 Highlighted Project
 
-I don't just write code; I have a passion for understanding the "why" and "how" behind a product, which drives both learning and superior execution.
+### 🏛️ [Policy Explained](https://github.com/lelisiario/PolicyExplained)
+A full-stack web application developed to make legislative data and federal voting records more transparent and accessible.
+*   **The Tech Stack:** Node.js, Express, REST APIs, Third-Party Data Integrations.
+*   **Key Features:** Integrated **OAuth** to ensure secure, streamlined user authentication and login functionality.
+*   **The Support Value:** This project represents my practical experience navigating data architectures, handling structured JSON payloads, and troubleshooting user authentication flows—core components of high-level technical support.
 
-> **"I am a highly curious Full Stack Engineer who quickly absorbs new technologies and applies policy/PM expertise to build highly usable, data-driven applications."**
+---
 
-* **Curiosity & Adaptability:** My primary strength is my drive to learn. I proactively seek out new tooling, tackle novel problems (like complex API parsing), and ensure my skills remain current and relevant.
-* **Domain Expertise (MPA):** My policy background ensures that I approach development with a critical eye for **data integrity** and the accurate structuring of complex, unstructured information—a crucial skill for any data-heavy application.
-* **Execution (PM Cert):** My training in project management ensures that I think about project scoping, effective communication with non-technical stakeholders, and delivering solutions that meet deadlines and user needs.
+## 📈 Current Focus
+*   **Professional Target:** Technical Product Support, Application Troubleshooting, and Knowledge Management.
+*   **Learning Goals:** Deepening my understanding of Large Language Model (LLM) capabilities and mastering data querying basics.
 
 ---
 
