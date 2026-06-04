@@ -1,6 +1,6 @@
 # Hi, I'm Lauren (lelisiario) 🌊
 
-### Technical Support Specialist | MPA Graduate
+### Looking to step back into Tech | MPA Graduate
 I bring a unique combination of full-stack web development training and public administration expertise to technical problem-solving. My core focus is bridging the gap between technical systems and end-users with clarity, structure, and a deep commitment to ethical, mission-driven work.
 
 ---
